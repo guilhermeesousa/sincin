@@ -1,1 +1,2 @@
-# sincin
+# sincin-app
+Aplicativo Sincin
